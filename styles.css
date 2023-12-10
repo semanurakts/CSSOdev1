@@ -1,0 +1,76 @@
+body {
+    font-family: Brygada 1918;
+    line-height: 1.0;
+    margin: 0;
+    padding: 0;
+    background-color: #FBF6EE;
+    color: #333;
+  }
+  
+  header {
+    background-color: #A25772;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  #biography {
+    width: 80%;
+    margin: 20px auto;
+  }
+
+  #biography img {
+    float: left;
+    margin-right: 20px;
+  }
+
+  #career {
+    width: 80%;
+    margin: 20px auto;
+  }
+  
+  #achievements {
+    width: 80%;
+    margin: 20px auto;
+  }
+
+  #quotes {
+    width: 80%;
+    margin: 20px auto;
+  }
+
+
+  h1 {
+    text-align: center;
+  }
+  
+  #biography h2 {
+    text-align: left;
+    color: #5f2639;
+  }
+
+  #career  h2 {
+    text-align: left;
+    margin-top: 70px;
+    padding: 0px;
+    color: #5f2639;
+  }
+
+  #achievements h2 {
+    color: #5f2639;
+  }
+  blockquote {
+    font-style: italic;
+    margin: 20px 0;
+  }
+  
+  #quotes h2 {
+    color: #5f2639;
+  }
+  footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #A25772;
+    color: white;
+  }
+  
